@@ -1,5 +1,5 @@
 function setup() {
-    createCanvas(500, 800);
+    createCanvas(510, 800);
     stroke(255)
     strokeWeight(4)
     if(!touch){
